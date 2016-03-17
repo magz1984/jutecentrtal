@@ -1,0 +1,56 @@
+<div class="block block-layered-nav block-layered-nav--no-filters">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content toggle-content open">
+        <p class="block-subtitle block-subtitle--filter">Filter</p>
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/cross-body-bags.html?___SID=U">
+                            Cross Body Bags                            <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/duffer.html?___SID=U">
+                            Duffer                             <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/designer-hand-bags.html?___SID=U">
+                            Designer Hand Bags                             <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/festival-bags.html?___SID=U">
+                            Festival Bags                             <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/luggage.html?___SID=U">
+                            Luggage                             <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/pouches.html?___SID=U">
+                            Pouches                             <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/sling-bag.html?___SID=U">
+                            Sling Bag                            <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                                            <li>
+                        <a href="http://127.0.0.1/projects/magento/jutecentral/index.php/bags/wallets.html?___SID=U">
+                            Wallets                             <span class="count">(0)</span>
+                        </a>
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>
